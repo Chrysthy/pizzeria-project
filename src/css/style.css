@@ -28,7 +28,7 @@ p {
     font-size: 2rem;
     margin-bottom: 4.5rem;
     line-height: 4rem;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.2rem;
 }
 
 a {
@@ -51,7 +51,7 @@ a:hover {
 }
 
 .bg-img {
-    background-image: url("https://images.pexels.com/photos/3731423/pexels-photo-3731423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: url("../img/pexels-photo-3731423\ -\ pizza.jpeg");
 
     background-position: center;
     background-size: cover;
