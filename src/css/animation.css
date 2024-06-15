@@ -1,0 +1,24 @@
+h1,
+p,
+a {
+    animation: appear 1s backwards;
+}
+
+h1 {
+    animation-delay: 0.2s;
+}
+
+p {
+    animation-delay: 0.8s
+}
+
+a {
+    animation-delay: 1.6s
+}
+
+@keyframes appear {
+    0% {
+        opacity: 0;
+    }
+
+}
