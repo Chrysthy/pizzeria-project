@@ -31,7 +31,7 @@ p {
 a {
     color: #000;
     background-color: #73ddf8;
-   
+
     padding: 1rem 2rem;
 
     font-size: 1.5rem;
@@ -40,4 +40,9 @@ a {
     width: 20rem;
 
     letter-spacing: 0.1rem;
+    transition: background-color 300ms;
+}
+
+a:hover {
+    background-color: #34c5e9;
 }
