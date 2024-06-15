@@ -1,0 +1,12 @@
+@media (width < 40rem) {
+    
+    h1 {
+        font-size: 70%;
+        
+    }
+
+    p {
+        font-size: 50%;
+    }
+
+}
