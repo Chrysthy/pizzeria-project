@@ -6,24 +6,38 @@ body {
     flex-direction: column;
     text-align: center;
     justify-content: center;
+    align-items: center;
 
     height: 100vh;
 }
 
 h1 {
-    font-size: 2rem;
-    line-height: 1.2;
+    font-size: 3rem;
+    line-height: 10rem;
+    letter-spacing: 0.2rem;
 }
 
 h1 span {
-    color: #00ccff;
+    color: #73ddf8;
 }
 
 p {
-    font-size: 1.25rem;
+    font-size: 1.60rem;
     margin-bottom: 4.5rem;
+    line-height: 2rem;
+    letter-spacing: 0.2rem;
 }
 
 a {
-    color: #00ccff;
+    color: #000;
+    background-color: #73ddf8;
+   
+    padding: 1rem 2rem;
+
+    font-size: 1.5rem;
+    border-radius: .5rem;
+
+    width: 20rem;
+
+    letter-spacing: 0.1rem;
 }
