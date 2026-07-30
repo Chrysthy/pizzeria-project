@@ -69,7 +69,7 @@
 
 <br>
 
+## 🫱🏻‍🫲🏻 Contributing
+<p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
+
 <br>
-<hr>
-<h2> Support </h2>
-<p> If you liked it, press the Star ⭐ Button, please! 😄 </p>
