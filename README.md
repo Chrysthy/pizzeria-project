@@ -35,7 +35,15 @@
 
 <br>
 
-<img src="src/img/pizza-project.png" alt="Foto do Site">
+## 📸 Screenshots
+
+<p align="center">
+  <img src="src/img/pizza-project.png" alt="Foto do Site">
+
+</p>
+
+<br>
+
 
 <br>
 
