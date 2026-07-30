@@ -61,7 +61,8 @@
 
 ## 💻 Project
 
-
+- A simple pizzeria website built with HTML and CSS.
+  
 <br>
 
 ## 📜 License
