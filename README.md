@@ -1,6 +1,6 @@
-# Simple Pizzeria Project 🍕
+<h1 align="center"> Simple Pizzeria Project 🍕</h1> 
 
-## This project was created during a RocketSeat event.
+<p align="center"> This project was created during a RocketSeat event.</p>
 
 <br>
 
